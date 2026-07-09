@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/DEPI/Technical/GP/NHA-4-215/employee_attrition_milestone_4_final/mlruns/495597437608757769/9ef5d18f66874167ad2c6f4a2de41602/artifacts
+end_time: 1783528945045
+entry_point_name: ''
+experiment_id: '495597437608757769'
+lifecycle_stage: active
+run_id: 9ef5d18f66874167ad2c6f4a2de41602
+run_name: milestone_4_deployment_v1
+run_uuid: 9ef5d18f66874167ad2c6f4a2de41602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783528944951
+status: 3
+tags: []
+user_id: Mahmo
