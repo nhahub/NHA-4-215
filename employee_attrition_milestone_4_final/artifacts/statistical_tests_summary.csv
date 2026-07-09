@@ -1,0 +1,26 @@
+Feature,Test_Used,Statistic,p_value,Significant_at_0_05,Interpretation
+city,Chi-Square,2998.7772,0.0,True,Associated
+city_development_group,Chi-Square,2109.4157,0.0,True,Associated
+company_size,Chi-Square,1161.9575,1.5874534712450328e-245,True,Associated
+company_type,Chi-Square,959.83,4.351920136429758e-204,True,Associated
+experience,Chi-Square,704.7101,7.882248351561756e-135,True,Associated
+experience_group,Chi-Square,606.4464,6.237662972994208e-130,True,Associated
+enrolled_university,Chi-Square,463.5337,3.809312475442323e-100,True,Associated
+relevent_experience,Chi-Square,315.3386,1.5006628411178982e-70,True,Associated
+education_level,Chi-Square,167.2714,2.787356885121268e-34,True,Associated
+last_new_job,Chi-Square,161.9887,2.244939797386131e-32,True,Associated
+gender,Chi-Square,117.3772,2.83304872204523e-25,True,Associated
+major_discipline,Chi-Square,64.2199,6.22453676130265e-12,True,Associated
+training_hours_group,Chi-Square,5.885,0.1173425336342429,False,Not Associated
+city_development_index,Mann-Whitney U,46992471.5,0.0,True,Differ significantly
+company_known_flag,Mann-Whitney U,43251495.5,6.872477047112659e-247,True,Differ significantly
+city_experience_interaction,Mann-Whitney U,44661344.5,5.991652828128805e-213,True,Differ significantly
+experience_numeric,Mann-Whitney U,42722855.5,4.318962922355029e-142,True,Differ significantly
+job_mobility_score,Mann-Whitney U,40787962.0,1.925652752171763e-84,True,Differ significantly
+is_currently_enrolled,Mann-Whitney U,29583629.0,2.918579558763851e-80,True,Differ significantly
+has_relevant_experience_binary,Mann-Whitney U,38927791.5,1.086330015385859e-70,True,Differ significantly
+experience_to_training_ratio,Mann-Whitney U,29715912.5,1.803284013756401e-44,True,Differ significantly
+last_new_job_numeric,Mann-Whitney U,37996756.0,4.542729701939121e-31,True,Differ significantly
+education_rank,Mann-Whitney U,34917756.0,0.04961839539698294,True,Differ significantly
+training_hours,Mann-Whitney U,34996517.0,0.05056000533831642,False,No significant difference
+company_size_numeric,Mann-Whitney U,34184575.0,0.6018745942612844,False,No significant difference

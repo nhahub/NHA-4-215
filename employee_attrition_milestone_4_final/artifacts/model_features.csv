@@ -1,0 +1,42 @@
+features
+city_development_index
+training_hours
+experience_numeric
+last_new_job_numeric
+company_size_numeric
+has_relevant_experience_binary
+is_currently_enrolled
+company_known_flag
+education_rank
+job_mobility_score
+experience_to_training_ratio
+city_experience_interaction
+low_city_development_flag
+high_training_flag
+senior_experience_flag
+unknown_company_info_flag
+gender_Male
+gender_Other
+gender_Unknown
+major_discipline_Business Degree
+major_discipline_Humanities
+major_discipline_No Major
+major_discipline_Other
+major_discipline_STEM
+major_discipline_Unknown
+company_type_Funded Startup
+company_type_NGO
+company_type_Other
+company_type_Public Sector
+company_type_Pvt Ltd
+company_type_Unknown
+experience_group_Fresher
+experience_group_Junior
+experience_group_Mid
+experience_group_Senior
+city_development_group_Low
+city_development_group_Medium
+city_development_group_Very High
+training_hours_group_Low
+training_hours_group_Medium
+training_hours_group_Very High

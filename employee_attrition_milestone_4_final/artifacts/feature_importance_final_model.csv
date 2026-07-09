@@ -1,0 +1,42 @@
+Feature,Importance
+training_hours,716
+city_development_index,620
+experience_to_training_ratio,593
+city_experience_interaction,459
+job_mobility_score,435
+company_size_numeric,263
+education_rank,241
+last_new_job_numeric,147
+experience_numeric,135
+company_known_flag,129
+is_currently_enrolled,104
+company_type_Pvt Ltd,103
+company_type_Unknown,90
+has_relevant_experience_binary,74
+gender_Male,63
+gender_Unknown,43
+major_discipline_STEM,40
+major_discipline_Unknown,38
+company_type_Public Sector,35
+experience_group_Junior,33
+company_type_Funded Startup,31
+experience_group_Senior,28
+training_hours_group_Medium,26
+experience_group_Mid,22
+major_discipline_Other,22
+company_type_Other,18
+major_discipline_Humanities,14
+gender_Other,13
+major_discipline_No Major,12
+major_discipline_Business Degree,11
+company_type_NGO,9
+city_development_group_Medium,8
+unknown_company_info_flag,6
+training_hours_group_Low,5
+senior_experience_flag,1
+city_development_group_Very High,1
+training_hours_group_Very High,1
+experience_group_Fresher,0
+high_training_flag,0
+city_development_group_Low,0
+low_city_development_flag,0

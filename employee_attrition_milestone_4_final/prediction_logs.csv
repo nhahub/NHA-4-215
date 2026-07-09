@@ -1,0 +1,4 @@
+timestamp,model_version,predicted_probability,selected_threshold,predicted_class,risk_level,city_development_index,gender,relevent_experience,enrolled_university,education_level,major_discipline,experience,company_size,company_type,last_new_job,training_hours
+2026-07-08 17:14:58,v1_lightgbm_milestone3,0.253873,0.5,0,Low Risk,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,4,20.0
+2026-07-08 17:15:46,v1_lightgbm_milestone3,0.37664,0.5,0,Low Risk,0.75,Female,Has relevent experience,Part time course,Graduate,STEM,5,100-500,Pvt Ltd,1,60.0
+2026-07-08 17:16:44,v1_lightgbm_milestone3,0.867252,0.5,1,High Risk,0.448,Male,No relevent experience,Full time course,Graduate,STEM,<1,Unknown,Unknown,never,180.0
